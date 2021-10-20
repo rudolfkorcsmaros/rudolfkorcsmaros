@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudolfkorcsmaros.
+- 👋 Hi, I’m Rudolf Korcsmáros.
 - 👀 I’m interested in almost everything.
 - 🌱 I’m currently learning web development and the beauty of the german language.
 - 💞️ I’m looking to collaborate on a website of a friend of mine.
